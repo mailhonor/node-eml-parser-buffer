@@ -2,7 +2,7 @@
 
 ## 说明
 
-网址: https://gitee.com/linuxmail/node-eml-parser-buffer/
+网址: https://github.com/mailhonor/node-eml-parser-buffer/
 
 邮件解析库, 充分考虑字符集问题, 本库作者认为: 有大量的邮件含有8bit文字,而这些文字不是UTF-8编码
 

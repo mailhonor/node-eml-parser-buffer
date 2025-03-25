@@ -1,6 +1,6 @@
 {
     "name": "eml-parser-buffer",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "description": "eml parser, buffer",
     "type": "module",
     "main": "./dist/index.mjs",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://gitee.com/linuxmail/node-eml-parser-buffer.git"
+        "url": "git+https://github.com/mailhonor/node-eml-parser-buffer.git"
     },
     "keywords": [
         "eml",
@@ -21,13 +21,13 @@
     "author": {
         "name": "linuxmail",
         "email": "eli960@qq.com",
-        "url": "https://gitee.com/linuxmail/node-eml-parser-buffer"
+        "url": "https://github.com/mailhonor/node-eml-parser-buffer"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://gitee.com/linuxmail/node-eml-parser-buffer/issues"
+        "url": "https://github.com/mailhonor/node-eml-parser-buffer/issues"
     },
-    "homepage": "https://gitee.com/linuxmail/node-eml-parser-buffer/",
+    "homepage": "https://github.com/mailhonor/node-eml-parser-buffer/",
     "devDependencies": {
         "@types/node": "^20.17.19",
         "ts-node": "^10.9.1",
